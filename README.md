@@ -1,5 +1,5 @@
 # World-Cup-Analysis
-### Analysis of FIFA rankings and World Cup results from 1994-2018
+### Looking for Relationship Between FIFA Rankings and Actual World Cup Performance - 1994-2018
 
 Once every four years the best soccer (football) teams from around the world gather to compete for the FIFA 
 World Cup. Each team receives an algorithmically generated ranking from FIFA that is connected to the perceived strength of the team; a ranking is
@@ -9,9 +9,7 @@ We analyzed and mapped the rankings of every country from around the world since
 tournament performace in order to observe whether a strong correlation exists between ranking and performance, and whether some countries tend to over 
 or underperform their rankings.
 
-## Dashboard
-
-The final dashboard:
+## Final Web Page
 
 ![full dashboard](images/full_dashboard.jpg)
 
